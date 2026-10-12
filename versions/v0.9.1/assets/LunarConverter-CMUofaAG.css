@@ -1,0 +1,1 @@
+.lunar-converter{border-left:3px solid var(--color-border);padding-left:var(--spacing-4);min-width:0}.lunar-fields>*{flex:1;min-width:min(7rem,100%)}.lunar-error{color:var(--color-text-orange);overflow-wrap:anywhere}
