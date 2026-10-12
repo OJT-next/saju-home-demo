@@ -1,0 +1,12 @@
+{
+  "version": "v0.3.0",
+  "commit": "88502158d5fd0ab1d0a3247b49bb62bd670076af",
+  "date": "2026-10-04T03:34:54+09:00",
+  "summary": "feat: analyse selected locations with public park distances",
+  "tagged": false,
+  "rebuildDate": "2026-10-12",
+  "hostingAdjustment": "Relative asset base (--base ./)",
+  "validation": "Typecheck, historical tests, build, asset references",
+  "files": 31,
+  "sha256": "d7e61c856c7affdfa859959f81d973b3df389191d0b2f6e3637de04f4f00fe3b"
+}
