@@ -1,0 +1,12 @@
+{
+  "version": "v0.3.5",
+  "commit": "534814143b4648c1c75ee464f679ff5711f43403",
+  "date": "2026-10-04T05:58:09+09:00",
+  "summary": "fix: show coordinate field errors and focus invalid input",
+  "tagged": false,
+  "rebuildDate": "2026-10-12",
+  "hostingAdjustment": "Relative asset base (--base ./)",
+  "validation": "Typecheck, historical tests, build, asset references",
+  "files": 26,
+  "sha256": "7df23c5d5a84bc9a573a1812597d629a76113d6c7d7f4da0d6cd90fa0c1f4a7d"
+}
