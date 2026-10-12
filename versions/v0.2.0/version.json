@@ -1,0 +1,12 @@
+{
+  "version": "v0.2.0",
+  "commit": "55cd331b4b09d90a5b99afa7ed61e9bbf5dc2ddb",
+  "date": "2026-10-03T22:21:59+09:00",
+  "summary": "feat: add Seoul public park neighborhood discovery",
+  "tagged": false,
+  "rebuildDate": "2026-10-12",
+  "hostingAdjustment": "Relative asset base (--base ./)",
+  "validation": "Typecheck, historical tests, build, asset references",
+  "files": 24,
+  "sha256": "9baa8688fa3969e4dea5ba4965b273aaaef6ef498293223bb0d35fa6ac10401e"
+}
