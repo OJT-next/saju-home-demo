@@ -1,0 +1,12 @@
+{
+  "version": "v0.3.4",
+  "commit": "b4f0f59c5d4efa6fd988204aea1b1fe135a797a1",
+  "date": "2026-10-04T04:08:17+09:00",
+  "summary": "fix: retain location action feedback and keyboard focus",
+  "tagged": false,
+  "rebuildDate": "2026-10-12",
+  "hostingAdjustment": "Relative asset base (--base ./)",
+  "validation": "Typecheck, historical tests, build, asset references",
+  "files": 26,
+  "sha256": "4fe5fa8f1e2e533e8e66ce2c5247561bf703f1eee86c202552b7c59636ba1d80"
+}
