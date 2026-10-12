@@ -1,8 +1,8 @@
 {
   "version": "v0.9.0",
-  "commit": "9a9182c5963e81304846e91b8408a5cf685e3983",
-  "date": "tag v0.9.0",
-  "summary": "Tagger: toot <khuvdkang@gmail.com>",
+  "commit": "99b3c29c17f97e47108d866893c1436a16a278eb",
+  "date": "2026-10-05T09:18:30+09:00",
+  "summary": "feat: v0.9.0 lunar birthday conversion (lunar module)",
   "tagged": true,
   "rebuildDate": "2026-10-12",
   "hostingAdjustment": "Relative asset base (--base ./)",

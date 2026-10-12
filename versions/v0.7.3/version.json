@@ -1,8 +1,8 @@
 {
   "version": "v0.7.3",
-  "commit": "dfe622458a01f7cd00dc95d71e781c9d05cee079",
-  "date": "tag v0.7.3",
-  "summary": "Tagger: toot <khuvdkang@gmail.com>",
+  "commit": "f542bc236cc1283b5f0656c38dee7f520356b4ff",
+  "date": "2026-10-05T09:09:22+09:00",
+  "summary": "feat: v0.7.3 report one-page summary; design memo for real-transaction list",
   "tagged": true,
   "rebuildDate": "2026-10-12",
   "hostingAdjustment": "Relative asset base (--base ./)",

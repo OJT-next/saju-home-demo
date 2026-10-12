@@ -1,8 +1,8 @@
 {
   "version": "v0.8.1",
-  "commit": "79b88690e92541c22bd54871762ab6c86e5e5268",
-  "date": "tag v0.8.1",
-  "summary": "Tagger: toot <khuvdkang@gmail.com>",
+  "commit": "71a17bc607a4afa966cb08b6c604ebe1351c4ca2",
+  "date": "2026-10-05T09:14:06+09:00",
+  "summary": "feat: v0.8.1 sync compass year to balance date via 입춘",
   "tagged": true,
   "rebuildDate": "2026-10-12",
   "hostingAdjustment": "Relative asset base (--base ./)",

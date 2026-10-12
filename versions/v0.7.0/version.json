@@ -1,8 +1,8 @@
 {
   "version": "v0.7.0",
-  "commit": "b53da3ae2179cbd7171d3540fc41a3924a1d0592",
-  "date": "tag v0.7.0",
-  "summary": "Tagger: toot <khuvdkang@gmail.com>",
+  "commit": "8aafc1410dc75fbd27ad55fb252a5d377909c756",
+  "date": "2026-10-05T08:59:56+09:00",
+  "summary": "feat: v0.7.0 family module (per-person 상생 directions, shared direction)",
   "tagged": true,
   "rebuildDate": "2026-10-12",
   "hostingAdjustment": "Relative asset base (--base ./)",

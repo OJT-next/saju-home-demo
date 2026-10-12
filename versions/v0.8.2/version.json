@@ -1,8 +1,8 @@
 {
   "version": "v0.8.2",
-  "commit": "f0c655b46e2f283d35992c2756f8c72f91fb6ebd",
-  "date": "tag v0.8.2",
-  "summary": "Tagger: toot <khuvdkang@gmail.com>",
+  "commit": "83999ce48557097ed90ce6a5d8375f109740024b",
+  "date": "2026-10-05T09:15:56+09:00",
+  "summary": "feat: v0.8.2 results next-steps checklist (guide module); README sync",
   "tagged": true,
   "rebuildDate": "2026-10-12",
   "hostingAdjustment": "Relative asset base (--base ./)",

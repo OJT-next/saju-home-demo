@@ -1,8 +1,8 @@
 {
   "version": "v0.9.1",
-  "commit": "ce1558c96fe787906c7c2042779509018a8443dd",
-  "date": "tag v0.9.1",
-  "summary": "Tagger: toot <khuvdkang@gmail.com>",
+  "commit": "9dc383b4b64f747475f2a65074cb02488ce5bf70",
+  "date": "2026-10-05T09:19:07+09:00",
+  "summary": "feat: v0.9.1 lunar conversion for family members",
   "tagged": true,
   "rebuildDate": "2026-10-12",
   "hostingAdjustment": "Relative asset base (--base ./)",

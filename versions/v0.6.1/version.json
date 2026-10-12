@@ -1,8 +1,8 @@
 {
   "version": "v0.6.1",
-  "commit": "432b8208c327efdf7e8580f39bc69618873dbb6c",
-  "date": "tag v0.6.1",
-  "summary": "Tagger: toot <khuvdkang@gmail.com>",
+  "commit": "72e5a2d2c36f7df76fb7f36b850d91b22776d9fa",
+  "date": "2026-10-05T08:54:44+09:00",
+  "summary": "fix: v0.6.1 usability pass (equal-scale plots, jeonse interest-only, result order, example budgets)",
   "tagged": true,
   "rebuildDate": "2026-10-12",
   "hostingAdjustment": "Relative asset base (--base ./)",

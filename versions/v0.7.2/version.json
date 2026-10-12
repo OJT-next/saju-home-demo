@@ -1,8 +1,8 @@
 {
   "version": "v0.7.2",
-  "commit": "f04122f8f09b02a7845b8770d5fcd5fbc839eaa4",
-  "date": "tag v0.7.2",
-  "summary": "Tagger: toot <khuvdkang@gmail.com>",
+  "commit": "77ec8b7e8d62b15d7db317237e9cc10065af5cf9",
+  "date": "2026-10-05T09:06:09+09:00",
+  "summary": "fix: v0.7.2 usability pass 2 (keyboard origin plot, fewer repeated notes)",
   "tagged": true,
   "rebuildDate": "2026-10-12",
   "hostingAdjustment": "Relative asset base (--base ./)",

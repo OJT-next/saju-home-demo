@@ -1,8 +1,8 @@
 {
   "version": "v0.1.0",
-  "commit": "86917e23c566ac9f43d2317a9f2e2d20a99bbd43",
-  "date": "tag v0.1.0",
-  "summary": "Tagger: toot <khuvdkang@gmail.com>",
+  "commit": "543400bdf8e0238882b88984799820df81c0cfe9",
+  "date": "2026-10-03T20:35:55+09:00",
+  "summary": "chore: preserve Saju Home MVP v0.1.0 baseline",
   "tagged": true,
   "rebuildDate": "2026-10-12",
   "hostingAdjustment": "Relative asset base (--base ./)",

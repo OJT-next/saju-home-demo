@@ -1,8 +1,8 @@
 {
   "version": "v0.8.0",
-  "commit": "a4a0c9081090ba28b8ab9fd1d5e9bd7d7e743bc9",
-  "date": "tag v0.8.0",
-  "summary": "Tagger: toot <khuvdkang@gmail.com>",
+  "commit": "9e0f8c1a146e6d71bc44d370bf45d601179efcf1",
+  "date": "2026-10-05T09:13:10+09:00",
+  "summary": "feat: v0.8.0 first-screen year compass hook",
   "tagged": true,
   "rebuildDate": "2026-10-12",
   "hostingAdjustment": "Relative asset base (--base ./)",

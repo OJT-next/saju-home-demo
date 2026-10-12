@@ -1,8 +1,8 @@
 {
   "version": "v0.5.0",
-  "commit": "277a6acab67b06264f6b9a1e1175a1ee8533a7dc",
-  "date": "tag v0.5.0",
-  "summary": "Tagger: toot <khuvdkang@gmail.com>",
+  "commit": "58d9914de6933179ffc27caf6f8ce84640ccf7ba",
+  "date": "2026-10-05T02:50:04+09:00",
+  "summary": "feat: v0.5.0 cost sheet module (taxes, brokerage cap, upfront cash, monthly payment)",
   "tagged": true,
   "rebuildDate": "2026-10-12",
   "hostingAdjustment": "Relative asset base (--base ./)",

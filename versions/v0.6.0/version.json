@@ -1,8 +1,8 @@
 {
   "version": "v0.6.0",
-  "commit": "1f09cbb51da5c850ed58bafa5d93acf7d3730b20",
-  "date": "tag v0.6.0",
-  "summary": "Tagger: toot <khuvdkang@gmail.com>",
+  "commit": "8e9b16dc3ef1993c7ac6c9150f672949f279c9d2",
+  "date": "2026-10-05T08:50:24+09:00",
+  "summary": "feat: v0.6.0 move timing module (손 없는 날 calendar, balance/lease timeline, 입춘 year)",
   "tagged": true,
   "rebuildDate": "2026-10-12",
   "hostingAdjustment": "Relative asset base (--base ./)",
