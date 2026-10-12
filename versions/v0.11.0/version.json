@@ -1,0 +1,13 @@
+{
+  "version": "v0.11.0",
+  "commit": "5bfaeb1763119cfa8065e304a55ee949d17ff06c",
+  "date": "2026-10-12T22:52:11+09:00",
+  "summary": "feat: Seoul district exploration with sourced multi-element tags",
+  "tagged": true,
+  "rebuildDate": "2026-10-12",
+  "hostingAdjustment": "Relative asset base",
+  "validation": "167 tests, typecheck, build, 320/1024px, multi-filter, sources, candidate registration, dark theme",
+  "files": 48,
+  "sha256": "fa6008dd37b0195cee26fae24626d8ccaa828e6bbf4dd94b0e59cf1ffee87634",
+  "description": "서울 25개 구 복수 오행 태그·출처·후보 연결"
+}
