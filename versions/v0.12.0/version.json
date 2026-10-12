@@ -1,0 +1,13 @@
+{
+  "version": "v0.12.0",
+  "commit": "61f1d27fccc8a1ec090d21e68885d5047eb4e901",
+  "date": "2026-10-12T23:26:46+09:00",
+  "summary": "feat: tune open-source Seoul map for a simpler mobile flow",
+  "tagged": true,
+  "rebuildDate": "2026-10-12",
+  "hostingAdjustment": "Relative asset base",
+  "validation": "168 tests, typecheck, build, mobile 320/390px, Leaflet selection/zoom/keyboard, mixed tags, collapsed evidence",
+  "files": 54,
+  "sha256": "f7134c116e75a4b40ed1664dfdcacd1f7f46a45bbfdd99a621274aa7e9a75e77",
+  "description": "오픈소스 서울 구 지도·모바일 화면 간소화"
+}
