@@ -1,0 +1,12 @@
+{
+  "version": "v0.1.0",
+  "commit": "86917e23c566ac9f43d2317a9f2e2d20a99bbd43",
+  "date": "tag v0.1.0",
+  "summary": "Tagger: toot <khuvdkang@gmail.com>",
+  "tagged": true,
+  "rebuildDate": "2026-10-12",
+  "hostingAdjustment": "Relative asset base (--base ./)",
+  "validation": "Typecheck, historical tests, build, asset references",
+  "files": 21,
+  "sha256": "5cca5d64927df4af28549e2248f8016e624b4ffec6b9af0020cbe8d8844b10c8"
+}
