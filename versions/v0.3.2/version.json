@@ -1,0 +1,12 @@
+{
+  "version": "v0.3.2",
+  "commit": "07566a12e4c7e1b5fb2ea8fa2347c91d23554ce0",
+  "date": "2026-10-04T03:55:03+09:00",
+  "summary": "fix: explain park reference points and GPS uncertainty",
+  "tagged": false,
+  "rebuildDate": "2026-10-12",
+  "hostingAdjustment": "Relative asset base (--base ./)",
+  "validation": "Typecheck, historical tests, build, asset references",
+  "files": 26,
+  "sha256": "050de616011e47411953db967dd04ee779120f142a3054b98929851c2b1ec82b"
+}
