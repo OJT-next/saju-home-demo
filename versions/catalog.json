@@ -375,5 +375,18 @@
     "files": 19,
     "sha256": "941a588f8b623cea8ce1ce55c7c05b6d536b2ce4e73c48f273401e8b632ce5f5",
     "description": "핵심 MVP · Seed UI·Fluent Emoji·집 근처 공원 선택"
+  },
+  {
+    "version": "v0.14.0",
+    "commit": "b68597fd3c9efd327dec1e36d2424d00440fcd8d",
+    "date": "2026-10-13T00:48:20+09:00",
+    "summary": "Personal element distribution, home/candidate comparison, landing and mobile inputs",
+    "tagged": true,
+    "rebuildDate": "2026-10-13",
+    "hostingAdjustment": "Relative asset base",
+    "validation": "182 tests, typecheck, build, CSS 320/390px, home analysis/comparison, map/list, currency buttons, park saved restore, dark/light, input spacing and no footer text",
+    "files": 22,
+    "sha256": "4cca8381e33c76a47ce2bbc6e038a7c412754280a97efb9c0edd936cee8f11f7",
+    "description": "내 사주·우리집·후보 비교분석 · 메인 진입·지도/리스트·금액 버튼"
   }
 ]

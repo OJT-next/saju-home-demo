@@ -37,6 +37,16 @@
       "file": "park.png",
       "source": "assets/National park/3D/national_park_3d.png",
       "sha256": "7923efeea75cd3ebfaf5589064b7ea5fd8c89d68d17555c5083f28483300fc48"
+    },
+    {
+      "file": "birthday.png",
+      "source": "assets/Birthday cake/3D/birthday_cake_3d.png",
+      "sha256": "5c5d6961fde0fa82d1aa2242f938ff10b0327e791674c625c912f13ff206933b"
+    },
+    {
+      "file": "map.png",
+      "source": "assets/World map/3D/world_map_3d.png",
+      "sha256": "f170580a2a2f70662e1de8c76d8263c33202f66f4002e57ad89c997a1b3dc488"
     }
   ]
 }
