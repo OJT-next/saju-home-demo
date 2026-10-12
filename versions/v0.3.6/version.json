@@ -1,0 +1,12 @@
+{
+  "version": "v0.3.6",
+  "commit": "78bf081d83e6402b485ece8b2720b5f54b17b783",
+  "date": "2026-10-05T01:49:35+09:00",
+  "summary": "feat: v0.3.6 mixed-source comparison states and candidate notice cleanup",
+  "tagged": false,
+  "rebuildDate": "2026-10-12",
+  "hostingAdjustment": "Relative asset base (--base ./)",
+  "validation": "Typecheck, historical tests, build, asset references",
+  "files": 26,
+  "sha256": "98b916c0dcdf6aba963a5309aa14be5ec6203b12706dffc1a3c37b9045fabf90"
+}
