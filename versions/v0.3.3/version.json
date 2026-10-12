@@ -1,0 +1,12 @@
+{
+  "version": "v0.3.3",
+  "commit": "d8f545efbab6c9ab468e1630006a61a4662ab390",
+  "date": "2026-10-04T04:01:34+09:00",
+  "summary": "fix: distinguish location drafts from applied analysis",
+  "tagged": false,
+  "rebuildDate": "2026-10-12",
+  "hostingAdjustment": "Relative asset base (--base ./)",
+  "validation": "Typecheck, historical tests, build, asset references",
+  "files": 26,
+  "sha256": "6c45a1c37d236f1a6f6310ec46372204a3e6ffdf6f97d494c2ee78992fe9a268"
+}
