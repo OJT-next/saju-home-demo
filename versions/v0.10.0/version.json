@@ -1,0 +1,12 @@
+{
+  "version": "v0.10.0",
+  "commit": "e94133fae511468ff366ff271b9e730e7e30d42e",
+  "date": "2026-10-09T19:20:00+09:00",
+  "summary": "feat: v0.10.0 results lead with direction and cost; opt-in browser save",
+  "tagged": true,
+  "rebuildDate": "2026-10-12",
+  "hostingAdjustment": "Relative asset base (--base ./)",
+  "validation": "Typecheck, historical tests, build, asset references",
+  "files": 48,
+  "sha256": "751e27df212ca4628e5c061280ba219584003afd38e035b4dec2d1b18264b421"
+}
