@@ -1,0 +1,12 @@
+{
+  "version": "v0.3.1",
+  "commit": "edd469508e489c6250a0ef8a238b185d0c421d45",
+  "date": "2026-10-04T03:42:52+09:00",
+  "summary": "docs: record park search version and validation",
+  "tagged": false,
+  "rebuildDate": "2026-10-12",
+  "hostingAdjustment": "Relative asset base (--base ./)",
+  "validation": "Typecheck, historical tests, build, asset references",
+  "files": 26,
+  "sha256": "44dba3611fc87309f5df15c1b2bc25402a6e876c41e5aef0c43d928ab2b02ad1"
+}
