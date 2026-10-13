@@ -1,0 +1,13 @@
+{
+  "version": "v0.16.0",
+  "commit": "46a25fb047c3a104cb2f80ce6f1984cf99277b17",
+  "date": "2026-10-13T10:04:37.192673+09:00",
+  "summary": "Songpa public apartment environment recommendations, comparison and offline report prompts",
+  "tagged": true,
+  "rebuildDate": "2026-10-13",
+  "hostingAdjustment": "Relative asset base",
+  "validation": "198 tests, typecheck/build, CSS 320/390/1024px, 25 real apartment map points, demo recommendation/comparison. DOM integration tests for input/clipboard/restore; native browser clicking and physical phone unverified.",
+  "files": 34,
+  "sha256": "90b63ca19b2886bcd43bf9e42da6054b4c243fb8f5a13913e3e6d097a8970fd8",
+  "description": "송파 실제 아파트25·환경 분석·TOP3/우리집 비교·AI 프롬프트"
+}

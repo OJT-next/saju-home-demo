@@ -1,13 +1,13 @@
 {
-  "version": "v0.15.0",
-  "commit": "9401b1a5a29aefe8f1997fa782ae1959334079fc",
-  "date": "2026-10-13T09:22:40.396391+09:00",
-  "summary": "Restore existing lunar son-free calendar in Seed MVP",
+  "version": "v0.16.0",
+  "commit": "46a25fb047c3a104cb2f80ce6f1984cf99277b17",
+  "date": "2026-10-13T10:04:37.192673+09:00",
+  "summary": "Songpa public apartment environment recommendations, comparison and offline report prompts",
   "tagged": true,
   "rebuildDate": "2026-10-13",
   "hostingAdjustment": "Relative asset base",
-  "validation": "182 tests, typecheck/build, CSS 320/1024px, date selection/month/today/dark mode, no observed console errors",
-  "files": 25,
-  "sha256": "2b5c6d741a3a36b907e065492111cf626fc73ce5f45b44d569d0c354b46c08e4",
-  "description": "손 없는 날 달력 복원 · Seed UI·음력 날짜·월 이동"
+  "validation": "198 tests, typecheck/build, CSS 320/390/1024px, 25 real apartment map points, demo recommendation/comparison. DOM integration tests for input/clipboard/restore; native browser clicking and physical phone unverified.",
+  "files": 34,
+  "sha256": "90b63ca19b2886bcd43bf9e42da6054b4c243fb8f5a13913e3e6d097a8970fd8",
+  "description": "송파 실제 아파트25·환경 분석·TOP3/우리집 비교·AI 프롬프트"
 }
