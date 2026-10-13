@@ -1,13 +1,13 @@
 {
-  "version": "v0.16.0",
-  "commit": "46a25fb047c3a104cb2f80ce6f1984cf99277b17",
-  "date": "2026-10-13T10:04:37.192673+09:00",
-  "summary": "Songpa public apartment environment recommendations, comparison and offline report prompts",
+  "version": "v0.17.0",
+  "commit": "ecb4b67d8afa2127b087248e287209d401591f90",
+  "date": "2026-10-13T12:01:36.844677+09:00",
+  "summary": "Songpa neighborhood-first discovery, sourced 1km profiles, comparisons and editable offline AI prompts",
   "tagged": true,
   "rebuildDate": "2026-10-13",
   "hostingAdjustment": "Relative asset base",
-  "validation": "198 tests, typecheck/build, CSS 320/390/1024px, 25 real apartment map points, demo recommendation/comparison. DOM integration tests for input/clipboard/restore; native browser clicking and physical phone unverified.",
-  "files": 34,
-  "sha256": "90b63ca19b2886bcd43bf9e42da6054b4c243fb8f5a13913e3e6d097a8970fd8",
-  "description": "송파 실제 아파트25·환경 분석·TOP3/우리집 비교·AI 프롬프트"
+  "validation": "215 tests, typecheck/build; CSS 320/390/1024px no page overflow, three real area circles/map selection, current-area compare, actual edited prompt clipboard. Physical phone unverified.",
+  "files": 40,
+  "sha256": "567cb9c59c0c5d75412e9db4df2aed44923f180170bdb4fb20334d573d9b9683",
+  "description": "동네 중심 MVP3 · 송파3생활권·실제 환경·생활권 비교·편집 프롬프트"
 }

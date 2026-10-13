@@ -1,7 +1,7 @@
 # 터 — 사주 × 주거 입지 비교 데모
 
 - [최신 앱](https://ojt-next.github.io/saju-home-demo/)
-- [32개 버전 목록](https://ojt-next.github.io/saju-home-demo/versions/)
+- [33개 버전 목록](https://ojt-next.github.io/saju-home-demo/versions/)
 
 이 저장소는 사주 웹사이트의 공개용 실행 파일만 관리합니다. 개인 자료, 인증 정보, 고객 입력, 다른 프로젝트는 포함하지 않습니다.
 
@@ -9,7 +9,7 @@
 
 원본 Git의 태그(있는 경우) 또는 package.json 버전 변경 커밋으로 2026-10-12에 재빌드했습니다. 과거 배포 파일의 원본 보관본은 아닙니다. 각 versions/v*/version.json에 원본 커밋, 재빌드 날짜, 검증 범위가 있습니다. GitHub Pages에서 열 수 있도록 상대 자산 경로(--base ./)만 적용했습니다. 모든 버전의 타입 검사, 해당 시점 테스트, 빌드와 로컬 파일 참조를 확인했습니다. 전체 버전의 모든 화면 흐름을 수동 검증한 것은 아닙니다.
 
-각 v* 태그는 해당 버전을 추가한 이 데모 저장소의 커밋을 가리킵니다. 원본 소스 저장소의 커밋과 구분합니다. 기본 주소는 v0.16.0의 송파 실제 아파트 MVP2입니다. 이전 31개 버전은 각각의 주소에서 보존합니다.
+각 v* 태그는 해당 버전을 추가한 이 데모 저장소의 커밋을 가리킵니다. 원본 소스 저장소의 커밋과 구분합니다. 기본 주소는 v0.17.0의 송파 동네 중심 MVP3입니다. 이전 32개 버전은 각각의 주소에서 보존합니다.
 
 ## 사용 범위
 
@@ -44,3 +44,9 @@ Leaflet 1.9.4 및 southkorea/seoul-maps의 JUSO 2015 구 경계(geometry 변경 
 ## v0.16.0 송파 실제 단지 MVP2
 
 대표5곳 검증 후25곳, 서울시 K-apt 코드 기반 공식단지 자료·주요 공원·송파 음식점 인허가 자료를 사용합니다. 토/금/전체하천/실거래가 미확인. 수는 석촌호수 대표점 거리만 포함합니다. 사주 참고 점수·데이터 확인 수준·예산 조건을 분리합니다. 외부AI API 없음, 프롬프트만 복사 후 사용자 직접 ChatGPT에 붙여넣습니다. 가상사주 시연: ?demo=songpa, &view=compare, &map=1. 출처/수집/라이선스는 SONGPA_DATA_NOTICE.txt.
+
+## v0.17.0 동네 중심 MVP3
+
+석촌호수·올림픽공원/방이동·잠실역의 공개 중심 반경1km를 동일한 규칙으로 비교합니다. 환경 지표와 사주 점수, 확인 비율, 예산/선호를 나누고 토·금·전체수계·가격은 미확인으로 표시합니다. 기존 아파트25·사주/수동비교/달력은 유지합니다. 공식 공원/음식점 스냅샷 재사용과 공식 잠실2호선 역사0216좌표; 중복 생활권 시설은 각1회 포함·단순합산하지 않습니다. 동네별 아파트 참고, 현재생활권 비교, API없는 프롬프트 편집/복사/ChatGPT 새창입니다. 데이터 고지는 NEIGHBORHOOD_DATA_NOTICE.txt.
+
+[동네 시연](https://ojt-next.github.io/saju-home-demo/?demo=neighborhoods) · [생활권 비교](https://ojt-next.github.io/saju-home-demo/?demo=neighborhoods&view=compare) · [생활권 지도](https://ojt-next.github.io/saju-home-demo/?demo=neighborhoods&map=1)

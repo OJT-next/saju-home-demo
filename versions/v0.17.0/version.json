@@ -1,0 +1,13 @@
+{
+  "version": "v0.17.0",
+  "commit": "ecb4b67d8afa2127b087248e287209d401591f90",
+  "date": "2026-10-13T12:01:36.844677+09:00",
+  "summary": "Songpa neighborhood-first discovery, sourced 1km profiles, comparisons and editable offline AI prompts",
+  "tagged": true,
+  "rebuildDate": "2026-10-13",
+  "hostingAdjustment": "Relative asset base",
+  "validation": "215 tests, typecheck/build; CSS 320/390/1024px no page overflow, three real area circles/map selection, current-area compare, actual edited prompt clipboard. Physical phone unverified.",
+  "files": 40,
+  "sha256": "567cb9c59c0c5d75412e9db4df2aed44923f180170bdb4fb20334d573d9b9683",
+  "description": "동네 중심 MVP3 · 송파3생활권·실제 환경·생활권 비교·편집 프롬프트"
+}
