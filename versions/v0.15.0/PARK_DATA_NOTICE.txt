@@ -1,0 +1,7 @@
+Seoul parks dataset attribution
+서울시 주요 공원현황(2026 하반기)
+Publisher: 서울특별시
+Source: https://data.seoul.go.kr/dataList/OA-394/S/1/datasetView.do?tab=A
+Source updated: 2026-09-23
+License: 공공누리 제1유형 · 출처표시
+Park names are selection references, not measured house proximity or environment.

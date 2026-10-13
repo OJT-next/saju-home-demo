@@ -1,0 +1,52 @@
+{
+  "repository": "https://github.com/microsoft/fluentui-emoji",
+  "revision": "1ffb34c752ecf5d402f04cfb4b392c77f57c54bc",
+  "license": "MIT",
+  "assets": [
+    {
+      "file": "wood.png",
+      "source": "assets/Evergreen tree/3D/evergreen_tree_3d.png",
+      "sha256": "4a510cfc89722a73bbb79e2148ae0719a49bdc62eb67bccc0f9b475e354f87f2"
+    },
+    {
+      "file": "fire.png",
+      "source": "assets/Fire/3D/fire_3d.png",
+      "sha256": "d56355132d73df1741edcf37cb4e21ad54f1c46eeb76fa17224607abf4128c3f"
+    },
+    {
+      "file": "earth.png",
+      "source": "assets/Rock/3D/rock_3d.png",
+      "sha256": "181290912d7daacb0922c2b822463ce0d54b7bc04981207372851bfc20fed39d"
+    },
+    {
+      "file": "metal.png",
+      "source": "assets/Coin/3D/coin_3d.png",
+      "sha256": "17e2a0c226342fe2cdd2612c56f5dd188870d1435076f47600313c04876f843b"
+    },
+    {
+      "file": "water.png",
+      "source": "assets/Droplet/3D/droplet_3d.png",
+      "sha256": "e5d71667f30307af984a42f204871b8eef0d3c3af7501e637b50472822c994da"
+    },
+    {
+      "file": "home.png",
+      "source": "assets/House/3D/house_3d.png",
+      "sha256": "0279b073321551b55c86a10dc2fff5bf66c8dec895672004da43482c5a1de87c"
+    },
+    {
+      "file": "park.png",
+      "source": "assets/National park/3D/national_park_3d.png",
+      "sha256": "7923efeea75cd3ebfaf5589064b7ea5fd8c89d68d17555c5083f28483300fc48"
+    },
+    {
+      "file": "birthday.png",
+      "source": "assets/Birthday cake/3D/birthday_cake_3d.png",
+      "sha256": "5c5d6961fde0fa82d1aa2242f938ff10b0327e791674c625c912f13ff206933b"
+    },
+    {
+      "file": "map.png",
+      "source": "assets/World map/3D/world_map_3d.png",
+      "sha256": "f170580a2a2f70662e1de8c76d8263c33202f66f4002e57ad89c997a1b3dc488"
+    }
+  ]
+}
